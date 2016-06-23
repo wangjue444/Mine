@@ -7,4 +7,5 @@
 5. **QQLike** : 基于QT的即时通讯程序，包含客户端与服务器，支持加好友等功能。
 6. **OrangeLike** : 基于于渊老师《Orange's 一个操作系统的实现》源代码，进行的基于IA32架构的操作系统模型实验。
 7. **HospitalManagement** : 基于Hibernate Struts2 Spring的医疗管理系统。好吧，这个一点都不fun。大概相当于本科毕设之类的东西。不过我没有拿它做过毕设。有本科毕设需求的直接download，bootstrap页面挺漂亮，功能也齐全，比网上1000块的好的多。
+8. **Fencang510** : 阿里巴巴菜鸟分仓预测大赛的数据整理代码以及基本模型实验，包括KNN xgboost randomForest svm 等。
 
