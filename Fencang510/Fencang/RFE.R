@@ -1,7 +1,7 @@
 
 rfe<-function(traindata,trainy)
 {
-  maxacc<-111111111111111111111
+  maxacc<-INF
   p<-1:ncol(traindata)
   while(length(p)>3){
     si=as.integer(nrow(traindata)/2)
